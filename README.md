@@ -1,3 +1,5 @@
+A more robust way to build slides involving overlayed screenshots written in VBA  for now
+
 How to use this function:
 
 Preparation:
@@ -17,3 +19,5 @@ between each of them.
 
 Test it by pressing "Shift-F5" in powerpoint.
    
+
+
