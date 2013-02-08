@@ -1,4 +1,4 @@
-A more robust way to build slides involving overlayed screenshots written in VBA  for now
+#A more robust way to build slides involving overlayed screenshots written in VBA  for now
 
 How to use this function:
 
